@@ -1,0 +1,53 @@
+
+camelCase
+snake_case
+monVariable = 1.2
+mon_variable = 1
+Integer
+float
+String
+complex
+booleen
+True
+False
+pour
+tanque
+repeter
+switch():
+case:
+default:
+    for(i=0;i<n;i++){
+
+    }
+    for i in range(6):
+        
+
+geeks for geeks 
+base de données(SQL,NoSQL) MYSQL POSTGRESQL Sqlite3
+
+collection list dic tuple tableau chaine 
+
+genie logiciel
+UML
+MERISE
+
+i=i+1
+i++
+i+=1
+i-
+def addition(a,b):
+    c=a+b
+    return c
+
+
+int main(){
+
+
+    return int
+}
+
+
+
+
+
+
